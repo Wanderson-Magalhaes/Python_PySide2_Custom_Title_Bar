@@ -3,3 +3,4 @@
 A simple project created with PySide2 and Qt Designer showing how it works to create a customizable application
 
 # Youtube
+https://youtu.be/wQfKamzV1uQ
